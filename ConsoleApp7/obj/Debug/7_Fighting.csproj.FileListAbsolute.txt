@@ -1,0 +1,7 @@
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp7\obj\Debug\7_Fighting.csproj.AssemblyReference.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp7\obj\Debug\7_Fighting.csproj.CoreCompileInputs.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

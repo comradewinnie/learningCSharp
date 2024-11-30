@@ -1,0 +1,7 @@
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp10\obj\Debug\10_ArrayTest.csproj.AssemblyReference.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp10\obj\Debug\10_ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
