@@ -1,0 +1,7 @@
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp13\obj\Debug\13_MultidimensionalArrayTest.csproj.AssemblyReference.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp13\obj\Debug\13_MultidimensionalArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
