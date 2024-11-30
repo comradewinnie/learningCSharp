@@ -1,0 +1,7 @@
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp16\obj\Debug\16_HealthBar.csproj.AssemblyReference.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp16\obj\Debug\16_HealthBar.csproj.CoreCompileInputs.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp16\obj\Debug\ConsoleApp16.pdb

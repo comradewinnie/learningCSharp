@@ -1,0 +1,7 @@
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp17\obj\Debug\17_PacmanGame.csproj.AssemblyReference.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp17\obj\Debug\17_PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+C:\Users\KOT\Desktop\learningCSharp\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
